@@ -1,1 +1,6 @@
-# proba-01
+<?php
+/*
+nyílt forráskódú hello world publikálása :)
+*/
+  echo 'Hello World!';
+?>
